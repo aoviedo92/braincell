@@ -391,8 +391,7 @@ level_1 = {
                                 Los océanos Pacífico y Atlántico a menudo se distinguen en Norte y Sur, según estén en el hemisferio Norte o en el Sur: Atlántico Norte y Atlántico Sur, y Pacífico Norte y Pacífico Sur.
                                 """],
 
-    # u"": [u"",u"",u"",u"",u"",u""""""],
-    # u"": [u"",u"",u"",u"",u"",u""""""],
+    u"¿Cuántos océanos hay?": [u"6",u"3",u"4",u"5",u"5",u""""""],
     # u"": [u"",u"",u"",u"",u"",u""""""],
     # u"": [u"",u"",u"",u"",u"",u""""""],
     # u"": [u"",u"",u"",u"",u"",u""""""],

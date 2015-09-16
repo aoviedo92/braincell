@@ -249,7 +249,7 @@ level_2 = {
                                     Groenlandia ha sido habitada, aunque no de forma continua, desde mediados del III milenio a. C. por pueblos amerindios. En el año 986 su costa meridional fue colonizada por poblaciones de origen nórdico procedentes de Islandia, y en 1261 los groenlandeses aceptaron la soberanía noruega sobre la isla. La ocupación nórdica duró hasta principios del siglo XV, declinando debido posiblemente a la Pequeña Edad del Hielo. A principios del siglo XVIII Hans Egede reestableció el contacto con Groenlandia, pasando ésta a depender de Dinamarca en 1814, tras la disolución del Reino de Dinamarca y Noruega. Desde la Constitución de Dinamarca de 1953, Groenlandia forma parte del Reino de Dinamarca con una relación conocida como Rigsfællesskabet (Mancomunidad de la Corona).
                                     En 1979 Dinamarca le otorga la autonomía y en 2008 transfiere la mayor parte de las competencias que tenía el gobierno danés al gobierno local groenlandés. Este traspaso se hizo efectivo el año siguiente y dejó para Dinamarca las competencias de asuntos exteriores, seguridad y política financiera. Asimismo, otorgó a Groenlandia un subsidio anual de 633 millones de dólares, lo que suponía $11.300 dólares per cápita.
                                     """],
-    # u"": [u"",u"",u"",u"",u"",u""""""],
+    u"Mayor océano del planeta": [u"Índico",u"Pacífico",u"Atlántico",u"Ártico",u"Pacífico",u""""""],
     # u"": [u"",u"",u"",u"",u"",u""""""],
     # u"": [u"",u"",u"",u"",u"",u""""""],
     # u"": [u"",u"",u"",u"",u"",u""""""],
