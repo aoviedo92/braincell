@@ -1,0 +1,12 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource>
+        <file alias="coins">coins.png</file>
+        <file alias="back">back2.png</file>
+        <file alias="bombilla">bombilla.png</file>
+        <file alias="rayo">rayo2.png</file>
+        <file alias="ver">ver2.png</file>
+        <file alias="random">random4.png</file>
+        <file alias="icon">icon.ico</file>
+
+    </qresource>
+</RCC>
